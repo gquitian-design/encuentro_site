@@ -54,8 +54,13 @@ function ContactPage() {
                 </form>
             </div>
 
+            <div>
+                Sigenos en instagram
+            </div>
+
             <Footer />
         </div>
+        
   )
 }
 
