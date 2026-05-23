@@ -25,7 +25,7 @@ function ContactPage() {
         <div className='flex flex-col min-h-screen'>
             <Header />
             <div className='flex-grow'>
-                <h1 className='m-2 text-xl'>Contact</h1>
+                <h1 className='m-2 text-xl'>Contactanos</h1>
                 <form className='flex flex-col gap-2' onSubmit={submitForm}>
                     <input 
                         placeholder='name'
