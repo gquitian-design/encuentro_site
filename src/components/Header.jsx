@@ -94,11 +94,11 @@ const Header = () => {
             </li>
             <li>
               <Link 
-                to="/us" 
+                to="/history" 
                 onClick={() => setIsOpen(false)} 
                 className="block py-1 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors"
               >
-                Nosotros
+                Historia
               </Link>
             </li>
             <li>
